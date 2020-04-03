@@ -16,7 +16,7 @@ Hauskaa koodailua!
 
 ------------------------------------------------------------------------------------
 
-How to download the exercise and get practicing:
+How to download the exercise and get practising:
 
 1. Get a copy of the project onto your own computer from Github using the "clone or download" link.
 2. Select "Download zip" and download the file to an empty folder of your choosing.
